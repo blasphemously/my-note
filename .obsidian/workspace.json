@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "f2faa154f7bea172",
+    "type": "split",
+    "children": [
+      {
+        "id": "cba85071ffb7d7b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd8f40cd7d10bd36",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea6b70d87043439b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a052384bb77c0d94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "243b1729d81553c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7b56d129ea8ae722",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df2c99b749b2add0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "80582813af1becd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c8560431e8d8496",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cc9e92f0ea6c1ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9afc2f2d3c821573",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e3bf86ad9b0cfe1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "38c673629c1dce25",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "243b1729d81553c9",
+  "lastOpenFiles": [
+    "my-note",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "小红书面试(被吊打).md",
+    "闭包.md",
+    "image/image 10.png",
+    "image/image 9.png",
+    "区块链.md",
+    "image/image 8.png",
+    "浏览器渲染原理.md",
+    "image/image 7.png",
+    "image/image 6.png",
+    "事件循环.md",
+    "东方证券.md",
+    "image/image.png",
+    "image/image 5.png",
+    "image/image 4.png",
+    "image/image 3.png",
+    "image/image 2.png",
+    "image",
+    "兴业银行.md"
+  ]
+}
