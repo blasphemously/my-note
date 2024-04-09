@@ -11,15 +11,24 @@
             "id": "cd8f40cd7d10bd36",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5375ad48aa1f9b2d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "小红书面试(被吊打).md",
+                "file": "面试/鼎捷软件.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "小红书面试(被吊打).md",
+                "file": "面试/鼎捷软件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "小红书面试(被吊打).md",
+                "file": "面试/鼎捷软件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "小红书面试(被吊打).md"
+                "file": "面试/鼎捷软件.md"
               }
             }
           }
@@ -147,28 +156,46 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "cd8f40cd7d10bd36",
+  "active": "5375ad48aa1f9b2d",
   "lastOpenFiles": [
+    "面试/途牛.md",
+    "面试/鼎捷软件.md",
+    "JS原理/闭包.md",
+    "JS原理/浏览器渲染原理.md",
+    "JS原理/事件循环.md",
+    "面试/桦木能源.md",
+    "().md",
+    "面试/小红书面试.md",
+    "面试/紫越.md",
+    "面试/兴业银行.md",
+    "面试/东方证券.md",
+    "2024-04-09.md",
+    "面试",
+    "新建文件夹",
+    "鼎捷软件.md",
+    "桦木能源.md",
+    "闭包.md",
+    "紫越.md",
+    "兴业银行.md",
+    "小红书面试(被吊打).md",
+    "未命名.canvas",
+    "事件循环.md",
+    "桦木能源",
     "东方证券.md",
+    "区块链.md",
+    "浏览器渲染原理.md",
     "my-note",
     "未命名 1.canvas",
-    "未命名.canvas",
-    "小红书面试(被吊打).md",
-    "闭包.md",
     "image/image 10.png",
     "image/image 9.png",
-    "区块链.md",
     "image/image 8.png",
-    "浏览器渲染原理.md",
     "image/image 7.png",
     "image/image 6.png",
-    "事件循环.md",
     "image/image.png",
     "image/image 5.png",
     "image/image 4.png",
     "image/image 3.png",
     "image/image 2.png",
-    "image",
-    "兴业银行.md"
+    "image"
   ]
 }
