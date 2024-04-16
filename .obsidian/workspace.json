@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试/鼎捷软件.md",
+                "file": "小红书/开发注意事项.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/鼎捷软件.md",
+                "file": "小红书/开发注意事项.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/鼎捷软件.md",
+                "file": "小红书/开发注意事项.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试/鼎捷软件.md"
+                "file": "小红书/开发注意事项.md"
               }
             }
           }
@@ -158,14 +158,19 @@
   },
   "active": "5375ad48aa1f9b2d",
   "lastOpenFiles": [
-    "面试/途牛.md",
+    "小红书/工作内容.md",
+    "小红书/开发注意事项.md",
+    "面试/小红书面试.md",
+    "小红书/image/Pasted image 20240415155604.png",
+    "小红书/image",
     "面试/鼎捷软件.md",
+    "小红书",
+    "面试/途牛.md",
     "JS原理/闭包.md",
     "JS原理/浏览器渲染原理.md",
     "JS原理/事件循环.md",
     "面试/桦木能源.md",
     "().md",
-    "面试/小红书面试.md",
     "面试/紫越.md",
     "面试/兴业银行.md",
     "面试/东方证券.md",
@@ -195,7 +200,6 @@
     "image/image 5.png",
     "image/image 4.png",
     "image/image 3.png",
-    "image/image 2.png",
     "image"
   ]
 }
