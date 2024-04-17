@@ -19,11 +19,14 @@
             "id": "5375ad48aa1f9b2d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "git指令/工作中需使用.md",
-                "mode": "source",
-                "source": false
+                "file": "小红书/发布流程.canvas",
+                "viewState": {
+                  "x": 338.07501992212104,
+                  "y": 351.535078233985,
+                  "zoom": -1.0122439916166064
+                }
               }
             }
           }
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git指令/工作中需使用.md",
+                "file": "小红书/发布流程.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git指令/工作中需使用.md",
+                "file": "小红书/发布流程.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git指令/工作中需使用.md"
+                "file": "小红书/发布流程.canvas"
               }
             }
           }
@@ -159,7 +162,17 @@
   "active": "5375ad48aa1f9b2d",
   "lastOpenFiles": [
     "小红书/工作内容.md",
+    "小红书/工作注意事项.md",
+    "小红书/ark 应用分包发布流程.md",
     "git指令/工作中需使用.md",
+    "小红书/发布流程.canvas",
+    "小红书/image/Pasted image 20240417185220.png",
+    "小红书/image/Pasted image 20240417180113.png",
+    "image/Pasted image 20240417175935.png",
+    "image/Pasted image 20240417175833.png",
+    "image/Pasted image 20240417175756.png",
+    "image/Pasted image 20240417175652.png",
+    "小红书/image/Pasted image 20240417175455.png",
     "工具/工作工具.md",
     "未命名",
     "工具",
@@ -171,10 +184,6 @@
     "image/image 1.png",
     "image/image 4.png",
     "image/image 3.png",
-    "image/image 2.png",
-    "image/image.png",
-    "小红书/工作注意事项.md",
-    "小红书/image/Pasted image 20240415155604.png",
     "git指令",
     "小红书/image",
     "小红书",
@@ -194,17 +203,10 @@
     "紫越.md",
     "兴业银行.md",
     "小红书面试(被吊打).md",
-    "未命名.canvas",
     "事件循环.md",
     "桦木能源",
-    "东方证券.md",
-    "区块链.md",
     "my-note",
     "未命名 1.canvas",
-    "image/image 10.png",
-    "image/image 9.png",
-    "image/image 8.png",
-    "image/image 7.png",
     "image"
   ]
 }

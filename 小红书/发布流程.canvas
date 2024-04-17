@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"cfedf0dc761e36ee","type":"file","file":"image/Pasted image 20240417175756.png","x":340,"y":100,"width":400,"height":205},
+		{"id":"3341b78bb3f8a080","type":"file","file":"image/Pasted image 20240417175833.png","x":780,"y":100,"width":400,"height":206},
+		{"id":"9b2a720cdafdcbf5","type":"file","file":"image/Pasted image 20240417175652.png","x":-240,"y":101,"width":523,"height":205},
+		{"id":"d8af00971cbfc4b8","type":"text","text":"小红书前端平台--应用列表","x":-103,"y":-27,"width":250,"height":60},
+		{"id":"d6d1053356bb27c4","type":"text","text":"应用详情","x":415,"y":-27,"width":250,"height":60},
+		{"id":"1ee67d3adb1a7742","type":"text","text":"应用详情--> 构建详情","x":855,"y":-27,"width":250,"height":60},
+		{"id":"89c22b7e2c93041a","type":"text","text":"发布应用","x":1270,"y":-27,"width":250,"height":60},
+		{"id":"e8dc2ca83ed5a3fc","type":"file","file":"小红书/image/Pasted image 20240417180113.png","x":1204,"y":100,"width":391,"height":205},
+		{"id":"542fe4752b1a91fc","type":"file","file":"image/Pasted image 20240417175935.png","x":1209,"y":340,"width":381,"height":206},
+		{"id":"3a13f9a271f7c188","type":"text","text":"![[Pasted image 20240417185220.png]]","x":1216,"y":700,"width":374,"height":200},
+		{"id":"dcbb03ab6089a639","x":1248,"y":1020,"width":310,"height":86,"type":"text","text":"搜索个人页名, 找到环境, 点击选择, 再点击发布应用"}
+	],
+	"edges":[
+		{"id":"8e897fe3e5259cd8","fromNode":"9b2a720cdafdcbf5","fromSide":"top","toNode":"d8af00971cbfc4b8","toSide":"bottom"},
+		{"id":"726f201a8a102884","fromNode":"d8af00971cbfc4b8","fromSide":"right","toNode":"d6d1053356bb27c4","toSide":"left"},
+		{"id":"1594375ed1321683","fromNode":"cfedf0dc761e36ee","fromSide":"top","toNode":"d6d1053356bb27c4","toSide":"bottom"},
+		{"id":"8f0e9647b6f98e9b","fromNode":"d6d1053356bb27c4","fromSide":"right","toNode":"1ee67d3adb1a7742","toSide":"left"},
+		{"id":"bf1609ae507ad612","fromNode":"3341b78bb3f8a080","fromSide":"top","toNode":"1ee67d3adb1a7742","toSide":"bottom"},
+		{"id":"11496fe687530b7a","fromNode":"1ee67d3adb1a7742","fromSide":"right","toNode":"89c22b7e2c93041a","toSide":"left"},
+		{"id":"f11b259540c7ddbf","fromNode":"542fe4752b1a91fc","fromSide":"top","toNode":"89c22b7e2c93041a","toSide":"bottom"},
+		{"id":"aa9d5a587c286c4b","fromNode":"542fe4752b1a91fc","fromSide":"top","toNode":"e8dc2ca83ed5a3fc","toSide":"bottom"},
+		{"id":"00a41e42bed02d2e","fromNode":"3a13f9a271f7c188","fromSide":"top","toNode":"542fe4752b1a91fc","toSide":"bottom"},
+		{"id":"70594452dd5a98f7","fromNode":"3a13f9a271f7c188","fromSide":"bottom","toNode":"dcbb03ab6089a639","toSide":"top"}
+	]
+}
