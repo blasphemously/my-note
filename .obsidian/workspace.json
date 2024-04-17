@@ -19,14 +19,11 @@
             "id": "5375ad48aa1f9b2d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "小红书/发布流程.canvas",
-                "viewState": {
-                  "x": 810.3916657702614,
-                  "y": 512.1205483700894,
-                  "zoom": -1.36086269440041
-                }
+                "file": "小红书/工作注意事项.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "小红书/发布流程.canvas",
+                "file": "小红书/工作注意事项.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "小红书/发布流程.canvas",
+                "file": "小红书/工作注意事项.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "小红书/发布流程.canvas"
+                "file": "小红书/工作注意事项.md"
               }
             }
           }
@@ -162,8 +159,8 @@
   "active": "5375ad48aa1f9b2d",
   "lastOpenFiles": [
     "小红书/工作内容.md",
-    "小红书/发布流程.canvas",
     "小红书/工作注意事项.md",
+    "小红书/发布流程.canvas",
     "小红书/ark 应用分包发布流程.md",
     "git指令/工作中需使用.md",
     "小红书/image/Pasted image 20240417185220.png",
