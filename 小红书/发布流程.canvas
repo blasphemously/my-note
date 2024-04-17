@@ -10,7 +10,7 @@
 		{"id":"e8dc2ca83ed5a3fc","type":"file","file":"小红书/image/Pasted image 20240417180113.png","x":1204,"y":100,"width":391,"height":205},
 		{"id":"542fe4752b1a91fc","type":"file","file":"image/Pasted image 20240417175935.png","x":1209,"y":340,"width":381,"height":206},
 		{"id":"3a13f9a271f7c188","type":"text","text":"![[Pasted image 20240417185220.png]]","x":1216,"y":700,"width":374,"height":200},
-		{"id":"dcbb03ab6089a639","x":1248,"y":1020,"width":310,"height":86,"type":"text","text":"搜索个人页名, 找到环境, 点击选择, 再点击发布应用"}
+		{"id":"dcbb03ab6089a639","type":"text","text":"搜索个人页名, 找到环境, 点击选择, 再点击发布应用","x":1248,"y":1020,"width":310,"height":86}
 	],
 	"edges":[
 		{"id":"8e897fe3e5259cd8","fromNode":"9b2a720cdafdcbf5","fromSide":"top","toNode":"d8af00971cbfc4b8","toSide":"bottom"},
