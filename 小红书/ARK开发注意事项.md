@@ -38,3 +38,9 @@ ark 想要运行另一个子包需要停止当前子包服务, 不然端口会�
 /ark-sit-yiyou/api/rocking/tob/resource/plan/batch/get
 
 ![[Pasted image 20240422193242.png]]
+
+#### ark 本地无法执行
+```
+npm run clear // 删除本地所有依赖包(包括子包)
+npm run init
+```
