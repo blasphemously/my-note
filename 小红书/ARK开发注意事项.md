@@ -27,3 +27,14 @@ LOGAN_PROXY_KEY=ark-zhengyang1-sit // 设置后端接口
 ark 想要运行另一个子包需要停止当前子包服务, 不然端口会被占用
 
 --scope='ark-app-{root,layout,basics,item}' dev" // app-{ 子包名 } // 填入子包名编译时就可以将该子包打包编译
+
+##### 切换后端代理地址beta环境，本地开发
+
+1.cookie替换
+
+用beta的token替换local的
+![[Pasted image 20240422193221.png]]2.接口屏蔽
+
+/ark-sit-yiyou/api/rocking/tob/resource/plan/batch/get
+
+![[Pasted image 20240422193242.png]]
