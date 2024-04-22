@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "小红书/工作注意事项.md",
+                "file": "小红书/工作内容.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "小红书/工作注意事项.md",
+                "file": "小红书/工作内容.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "小红书/工作注意事项.md",
+                "file": "小红书/工作内容.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "小红书/工作注意事项.md"
+                "file": "小红书/工作内容.md"
               }
             }
           }
@@ -158,10 +158,14 @@
   },
   "active": "5375ad48aa1f9b2d",
   "lastOpenFiles": [
-    "小红书/工作内容.md",
-    "小红书/工作注意事项.md",
     "小红书/发布流程.canvas",
     "小红书/ark 应用分包发布流程.md",
+    "小红书/流程发布注意事项.md",
+    "小红书/ARK开发注意事项.md",
+    "小红书/小红书千帆移动端.md",
+    "小红书/工作内容.md",
+    "daily",
+    "工具/知识管理体系.md",
     "git指令/工作中需使用.md",
     "小红书/image/Pasted image 20240417185220.png",
     "小红书/image/Pasted image 20240417180113.png",
@@ -171,7 +175,6 @@
     "image/Pasted image 20240417175652.png",
     "小红书/image/Pasted image 20240417175455.png",
     "工具/工作工具.md",
-    "未命名",
     "工具",
     "面试/途牛.md",
     "README.md",
@@ -198,9 +201,6 @@
     "桦木能源.md",
     "闭包.md",
     "紫越.md",
-    "兴业银行.md",
-    "小红书面试(被吊打).md",
-    "事件循环.md",
     "桦木能源",
     "my-note",
     "未命名 1.canvas",
