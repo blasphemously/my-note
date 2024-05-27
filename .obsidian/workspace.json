@@ -4,19 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "b3e731ec67e42669",
+        "id": "a08bacc33e3b1c8a",
         "type": "tabs",
         "children": [
           {
-            "id": "6159f622aaf87f4e",
+            "id": "a6b8274f0104a6b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具/工作工具.md",
+                "file": "小红书/线上发布流程.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "45e50e3a50b43e54",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具/工作工具.md",
+                "file": "小红书/线上发布流程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工具/工作工具.md",
+                "file": "小红书/线上发布流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工具/工作工具.md"
+                "file": "小红书/线上发布流程.md"
               }
             }
           }
@@ -147,20 +155,25 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "6159f622aaf87f4e",
+  "active": "a6b8274f0104a6b0",
   "lastOpenFiles": [
-    "工具/跨平台框架.md",
-    "工具/知识管理体系.md",
-    "工具/工作工具.md",
+    "小红书/测试账号.md",
+    "小红书/线上发布流程.md",
+    "小红书/小红书千帆移动端.md",
+    "小红书/小红书app端开发.md",
+    "小红书/千帆app端.md",
+    "小红书/UNO配置平台.md",
     "小红书/埋点部署.md",
     "小红书/UBW用户行为分析平台(埋点).canvas",
+    "小红书/工作内容.md",
+    "README.md",
+    "未命名.canvas",
+    "2024-05-13.md",
+    "工具/工作工具.md",
+    "工具/跨平台框架.md",
+    "工具/知识管理体系.md",
     "小红书/FE平台流程发布注意事项.md",
     "小红书/ARK开发注意事项.md",
-    "小红书/小红书app端开发.md",
-    "小红书/小红书千帆移动端.md",
-    "小红书/千帆app端.md",
-    "小红书/工作内容.md",
-    "小红书/测试账号.md",
     "小红书/FE平台发布流程.canvas",
     "小红书/image/Pasted image 20240516150721.png",
     "小红书/image/Pasted image 20240516150608.png",
@@ -171,8 +184,6 @@
     "小红书/image/Pasted image 20240516144247.png",
     "小红书/image/Pasted image 20240516144151.png",
     "小红书/image/Pasted image 20240516144138.png",
-    "2024-05-13.md",
-    "未命名.canvas",
     "小红书/image/Pasted image 20240513172919.png",
     "面试/紫越.md",
     "面试/兴业银行.md",
@@ -185,13 +196,11 @@
     "daily",
     "git指令/工作中需使用.md",
     "工具",
-    "README.md",
     "git指令",
     "小红书/image",
     "小红书",
     "JS原理/闭包.md",
     "JS原理/浏览器渲染原理.md",
-    "JS原理/事件循环.md",
     "面试",
     "新建文件夹",
     "桦木能源",
