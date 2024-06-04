@@ -4,27 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a08bacc33e3b1c8a",
+        "id": "8fcf72cb97eedee4",
         "type": "tabs",
         "children": [
           {
-            "id": "a6b8274f0104a6b0",
+            "id": "77d54a1d6305f532",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "小红书/线上发布流程.md",
+                "file": "小红书/营销策略工作内容(鹰眼平台)营销活动平台.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "45e50e3a50b43e54",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "小红书/线上发布流程.md",
+                "file": "小红书/营销策略工作内容(鹰眼平台)营销活动平台.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "小红书/线上发布流程.md",
+                "file": "小红书/营销策略工作内容(鹰眼平台)营销活动平台.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "小红书/线上发布流程.md"
+                "file": "小红书/营销策略工作内容(鹰眼平台)营销活动平台.md"
               }
             }
           }
@@ -155,17 +147,31 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "a6b8274f0104a6b0",
+  "active": "77d54a1d6305f532",
   "lastOpenFiles": [
     "小红书/测试账号.md",
-    "小红书/线上发布流程.md",
-    "小红书/小红书千帆移动端.md",
+    "小红书/工作内容.md",
+    "面试/鼎捷软件.md",
+    "小红书/营销策略工作内容(鹰眼平台)营销活动平台.md",
+    "企业g微信截图_bd3c8ccb-8345-4832-a1ea-7b32a719cafa.png.md",
     "小红书/小红书app端开发.md",
+    "小红书/小红书千帆移动端.md",
+    "JS原理/闭包.md",
+    "JS原理/事件循环.md",
+    "JS原理/浏览器渲染原理.md",
+    "小红书/image/企业微信截图_bd3c8ccb-8345-4832-a1ea-7b32a719cafa.png",
+    "小红书/image/企业微信截图_efae8633-0b82-4e10-b008-ddb407c72983.png",
+    "小红书/image/企业微信截图_12a9667d-8f75-4f82-b030-f61bd9a5ed0c.png",
+    "小红书/image/企业微信截图_5c8c0dab-2c59-4a6c-83a4-971e375e9dd9.png",
+    "小红书/image/企业微信截图_62038c53-4068-48e2-bfae-cab727bf7f02.png",
+    "小红书/image/企业微信截图_b9af4884-8e27-46b2-8001-e5e98b56823b.png",
+    "小红书/image/Pasted image 20240530194123.png",
+    "小红书/image/企业微信截图_6ea3b197-a499-4a6d-b5d6-f5333cd5b157.png",
+    "小红书/线上发布流程.md",
     "小红书/千帆app端.md",
     "小红书/UNO配置平台.md",
     "小红书/埋点部署.md",
     "小红书/UBW用户行为分析平台(埋点).canvas",
-    "小红书/工作内容.md",
     "README.md",
     "未命名.canvas",
     "2024-05-13.md",
@@ -177,30 +183,16 @@
     "小红书/FE平台发布流程.canvas",
     "小红书/image/Pasted image 20240516150721.png",
     "小红书/image/Pasted image 20240516150608.png",
-    "小红书/image/Pasted image 20240516150607.png",
-    "小红书/image/Pasted image 20240516150557.png",
-    "image/Pasted image 20240417175935.png",
-    "小红书/image/Pasted image 20240516144257.png",
-    "小红书/image/Pasted image 20240516144247.png",
-    "小红书/image/Pasted image 20240516144151.png",
-    "小红书/image/Pasted image 20240516144138.png",
-    "小红书/image/Pasted image 20240513172919.png",
     "面试/紫越.md",
     "面试/兴业银行.md",
     "面试/小红书面试.md",
-    "面试/鼎捷软件.md",
     "面试/东方证券.md",
     "面试/桦木能源.md",
-    "面试/途牛.md",
-    "小红书/ark 应用分包发布流程.md",
     "daily",
-    "git指令/工作中需使用.md",
     "工具",
     "git指令",
     "小红书/image",
     "小红书",
-    "JS原理/闭包.md",
-    "JS原理/浏览器渲染原理.md",
     "面试",
     "新建文件夹",
     "桦木能源",
