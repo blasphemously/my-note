@@ -17,7 +17,7 @@
 		{"id":"dcbb03ab6089a639","type":"text","text":"搜索个人页名, 找到环境, 点击选择, 再点击发布应用","x":1821,"y":1040,"width":310,"height":86},
 		{"id":"e8dc2ca83ed5a3fc","type":"file","file":"小红书/image/Pasted image 20240417180113.png","x":1780,"y":100,"width":391,"height":205},
 		{"id":"6a5416872d5e2a6d","type":"text","text":"选择不新建, 分支填写当前开发分支","x":870,"y":1460,"width":250,"height":50},
-		{"id":"4ca9bb6a6f9f2bd4","x":818,"y":-560,"width":400,"height":400,"type":"file","file":"小红书/FE平台流程发布注意事项.md"}
+		{"id":"4ca9bb6a6f9f2bd4","type":"file","file":"小红书/FE平台流程发布注意事项.md","x":818,"y":-560,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"8e897fe3e5259cd8","fromNode":"9b2a720cdafdcbf5","fromSide":"top","toNode":"d8af00971cbfc4b8","toSide":"bottom"},
