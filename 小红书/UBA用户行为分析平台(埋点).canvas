@@ -1,24 +1,25 @@
 {
 	"nodes":[
 		{"id":"affc6d1b247c0383","type":"group","x":-620,"y":-60,"width":1644,"height":1679,"label":"新增页面, 新增需求, 将页面与需求模块关联"},
-		{"id":"f0ba8aa6125d08d6","type":"file","file":"小红书/image/Pasted image 20240508152232.png","x":-220,"y":80,"width":400,"height":217},
-		{"id":"a8a04dd10ce18f8c","type":"file","file":"小红书/image/Pasted image 20240508153315.png","x":-220,"y":420,"width":400,"height":215},
 		{"id":"016513b1985795d2","type":"text","text":"点击需求新增点位","x":-540,"y":500,"width":180,"height":58},
-		{"id":"3f098392f2b05e4d","type":"file","file":"小红书/image/Pasted image 20240508153751.png","x":-220,"y":740,"width":400,"height":201},
-		{"id":"27067d4ea08b1cfc","type":"text","text":"新增需求信息","x":-531,"y":803,"width":250,"height":60},
-		{"id":"51f91e680cdd2d2e","type":"file","file":"小红书/image/Pasted image 20240508153854.png","x":-220,"y":1040,"width":400,"height":203},
 		{"id":"1786bf1ef2059204","type":"text","text":"需求中添加点位模块, 将点位和页面关联, 选择模块动作, 曝光 点击","x":-560,"y":1092,"width":250,"height":100},
-		{"id":"04483b17d968c613","type":"file","file":"小红书/image/Pasted image 20240508154202.png","x":-220,"y":1360,"width":400,"height":239},
-		{"id":"80a8f3dfd8cb3185","type":"text","text":"埋点模块添加维度名称","x":-600,"y":1450,"width":250,"height":60},
-		{"id":"2b85503400504bb3","type":"text","text":"新增页面","x":-78,"y":-40,"width":116,"height":50},
-		{"id":"b4343c891473092f","type":"text","text":"找到埋点页面信息","x":380,"y":-40,"width":193,"height":50},
-		{"id":"a65823afa160d2e1","type":"file","file":"小红书/image/Pasted image 20240508152232.png","x":277,"y":80,"width":400,"height":217},
-		{"id":"9274bf4e4c5ef6e1","type":"text","text":"查看页面信息","x":754,"y":130,"width":250,"height":60},
-		{"id":"1c41ffa59854d03e","type":"file","file":"小红书/image/Pasted image 20240516150608.png","x":277,"y":380,"width":400,"height":215},
+		{"id":"a8a04dd10ce18f8c","type":"file","file":"小红书/image/Pasted image 20240508153315.png","x":-220,"y":420,"width":400,"height":215},
+		{"id":"f0ba8aa6125d08d6","type":"file","file":"小红书/image/Pasted image 20240508152232.png","x":-220,"y":80,"width":400,"height":217},
+		{"id":"51f91e680cdd2d2e","type":"file","file":"小红书/image/Pasted image 20240508153854.png","x":-220,"y":1040,"width":400,"height":203},
+		{"id":"3f098392f2b05e4d","type":"file","file":"小红书/image/Pasted image 20240508153751.png","x":-220,"y":740,"width":400,"height":201},
+		{"id":"27067d4ea08b1cfc","type":"text","text":"新增需求信息","x":-560,"y":811,"width":250,"height":60},
 		{"id":"f18fc2675b89cf55","type":"text","text":"新增页面","x":760,"y":463,"width":140,"height":50},
+		{"id":"9274bf4e4c5ef6e1","type":"text","text":"查看页面信息","x":754,"y":130,"width":250,"height":60},
+		{"id":"2b85503400504bb3","type":"text","text":"新增页面","x":-78,"y":-40,"width":116,"height":50},
+		{"id":"1c41ffa59854d03e","type":"file","file":"小红书/image/Pasted image 20240516150608.png","x":277,"y":381,"width":400,"height":215},
+		{"id":"b4343c891473092f","type":"text","text":"找到埋点页面信息","x":380,"y":-40,"width":193,"height":50},
+		{"id":"7804b715fe252367","type":"text","text":"","x":-140,"y":1445,"width":250,"height":60},
+		{"id":"04483b17d968c613","type":"file","file":"小红书/image/Pasted image 20240508154202.png","x":-220,"y":1360,"width":400,"height":239},
 		{"id":"99c615036965fd3d","type":"file","file":"小红书/image/Pasted image 20240516150721.png","x":277,"y":700,"width":399,"height":279},
+		{"id":"80a8f3dfd8cb3185","type":"text","text":"埋点模块添加维度名称","x":-600,"y":1450,"width":250,"height":60},
 		{"id":"500b47377befbd24","type":"text","text":"页面信息","x":768,"y":810,"width":124,"height":60},
-		{"id":"56b0b54782dd7941","type":"file","file":"小红书/埋点部署.md","x":277,"y":-560,"width":400,"height":440}
+		{"id":"56b0b54782dd7941","type":"file","file":"小红书/埋点部署.md","x":277,"y":-560,"width":400,"height":440},
+		{"id":"a65823afa160d2e1","type":"file","file":"小红书/image/Pasted image 20240508152232.png","x":277,"y":80,"width":400,"height":217}
 	],
 	"edges":[
 		{"id":"7b15b2ef4d6b12c5","fromNode":"2b85503400504bb3","fromSide":"bottom","toNode":"f0ba8aa6125d08d6","toSide":"top"},
@@ -34,6 +35,7 @@
 		{"id":"8e6de7de07c10e47","fromNode":"a65823afa160d2e1","fromSide":"bottom","toNode":"1c41ffa59854d03e","toSide":"top"},
 		{"id":"3a1564827132b041","fromNode":"1c41ffa59854d03e","fromSide":"right","toNode":"f18fc2675b89cf55","toSide":"left"},
 		{"id":"63663e3d686b2d7e","fromNode":"1c41ffa59854d03e","fromSide":"bottom","toNode":"99c615036965fd3d","toSide":"top"},
-		{"id":"821767c61ba54597","fromNode":"99c615036965fd3d","fromSide":"right","toNode":"500b47377befbd24","toSide":"left"}
+		{"id":"821767c61ba54597","fromNode":"99c615036965fd3d","fromSide":"right","toNode":"500b47377befbd24","toSide":"left"},
+		{"id":"06cce1993f7b1a0a","fromNode":"27067d4ea08b1cfc","fromSide":"right","toNode":"3f098392f2b05e4d","toSide":"left"}
 	]
 }

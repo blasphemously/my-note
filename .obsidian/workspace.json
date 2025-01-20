@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2ae08564cb7d08fc",
+        "id": "afe67773e7098f0f",
         "type": "tabs",
         "children": [
           {
-            "id": "03595e521e6b7afb",
+            "id": "e32d9adbe0f4ea1f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "小红书/营销策略工作内容(鹰眼平台)营销活动平台LOKI.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -39,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -54,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -62,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -85,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "小红书/营销策略工作内容(鹰眼平台)营销活动平台LOKI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +96,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
             }
           },
           {
@@ -102,10 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "小红书/营销策略工作内容(鹰眼平台)营销活动平台LOKI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "出链"
             }
           },
           {
@@ -116,15 +122,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false
-              }
-            }
-          },
-          {
-            "id": "1f373fb2fbd8d2e0",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -132,17 +132,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "小红书/营销策略工作内容(鹰眼平台)营销活动平台LOKI.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -157,46 +157,49 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "03595e521e6b7afb",
+  "active": "e32d9adbe0f4ea1f",
   "lastOpenFiles": [
-    "小红书/营销策略工作内容(鹰眼平台)营销活动平台LOKI.md",
-    "小红书/image/Pasted image 20240612174818.png",
-    "小红书/image/企业微信截图_994a484d-d2bb-4937-a09d-dbdd2c13e07d.png",
-    "2024-06-05.md",
-    "未命名.canvas",
-    "2024-06-06.md",
-    "小红书/埋点部署.md",
-    "小红书/FE平台发布流程.canvas",
-    "小红书/FE平台流程发布注意事项.md",
-    "小红书/工作内容.md",
-    "daily/未命名.md",
-    "面试/鼎捷软件.md",
+    "人生食用指南/认知自己.md",
+    "人生食用指南/未命名.md",
+    "人生食用指南/拒绝疗法.md",
     "小红书/测试账号.md",
-    "企业g微信截图_bd3c8ccb-8345-4832-a1ea-7b32a719cafa.png.md",
+    "小红书/催发货进度页面功能整理.md",
+    "小红书/工作内容.md",
+    "小红书/埋点部署.md",
+    "小红书/千帆app端.md",
+    "小红书/线上发布流程.md",
+    "小红书/营销策略工作内容(鹰眼平台)营销活动平台LOKI.md",
+    "小红书/ARK开发注意事项.md",
+    "小红书/FE平台发布流程.canvas",
+    "小红书/fe平台发布流程.md",
+    "小红书/FE平台流程发布注意事项.md",
+    "小红书/RN开发规范.md",
+    "小红书/UBA用户行为分析平台(埋点).canvas",
+    "小红书/UNO配置平台.md",
     "小红书/小红书app端开发.md",
     "小红书/小红书千帆移动端.md",
-    "JS原理/闭包.md",
-    "JS原理/事件循环.md",
-    "JS原理/浏览器渲染原理.md",
-    "小红书/image/企业微信截图_bd3c8ccb-8345-4832-a1ea-7b32a719cafa.png",
-    "小红书/image/企业微信截图_efae8633-0b82-4e10-b008-ddb407c72983.png",
-    "小红书/image/企业微信截图_12a9667d-8f75-4f82-b030-f61bd9a5ed0c.png",
-    "小红书/image/企业微信截图_5c8c0dab-2c59-4a6c-83a4-971e375e9dd9.png",
-    "小红书/image/企业微信截图_62038c53-4068-48e2-bfae-cab727bf7f02.png",
-    "小红书/image/企业微信截图_b9af4884-8e27-46b2-8001-e5e98b56823b.png",
-    "小红书/image/Pasted image 20240530194123.png",
-    "小红书/image/企业微信截图_6ea3b197-a499-4a6d-b5d6-f5333cd5b157.png",
-    "小红书/线上发布流程.md",
-    "小红书/千帆app端.md",
-    "小红书/UNO配置平台.md",
-    "小红书/UBW用户行为分析平台(埋点).canvas",
+    "人生食用指南/奥乐齐.md",
+    "人生食用指南/2024 12 28安排.md",
+    "人生食用指南/NEED TO DO.md",
+    "小红书/SCheam发布.md",
     "README.md",
-    "2024-05-13.md",
-    "工具/工作工具.md",
-    "工具/跨平台框架.md",
-    "工具/知识管理体系.md",
-    "小红书/ARK开发注意事项.md",
-    "面试/紫越.md",
+    "2024-08-05.md",
+    "2024-07-16.md",
+    "2024-07-17.md",
+    "2024-06-06.md",
+    "小红书/image/Pasted image 20241114192206.png",
+    "小红书/image/Pasted image 20241114192135.png",
+    "小红书/image/Pasted image 20241114191909.png",
+    "人生食用指南",
+    "note",
+    "小红书/image/Pasted image 20240727173828.png",
+    "小红书/image/Pasted image 20240727173824.png",
+    "小红书/image/Pasted image 20240727173816.png",
+    "小红书/image/Pasted image 20240727173720.png",
+    "小红书/image/Pasted image 20240618104540.png",
+    "小红书/image/Pasted image 20240612174818.png",
+    "小红书/image/企业微信截图_994a484d-d2bb-4937-a09d-dbdd2c13e07d.png",
+    "未命名.canvas",
     "daily",
     "工具",
     "git指令",
@@ -205,8 +208,6 @@
     "面试",
     "新建文件夹",
     "桦木能源",
-    "my-note",
-    "未命名 1.canvas",
-    "image"
+    "未命名 1.canvas"
   ]
 }

@@ -54,3 +54,17 @@ v vision 版本 0 old    1 new
 2. 投放计划详情-> 策略列表 ![[Pasted image 20240612174818.png]]
 3. 优先级管理-> 详情 跳转策略预览页面
 4. 新建场景列表页面 可基本复用
+
+
+
+- [x]  策略验收 [[https://docs.xiaohongshu.com/doc/ab081dd1a283e89eae5f2804b9e99f02]]
+
+- [x] 触点管理验收 [[ https://docs.xiaohongshu.com/doc/88522f415ab516fa3fbe2a88753840f0]]
+- [x] 策略平台 [[https://docs.xiaohongshu.com/doc/f67d3fddac18895d554ca08bc6c23ed1]]
+![[Pasted image 20240618104540.png]]
+- [x] 策略平台校验逻辑 [[ https://docs.xiaohongshu.com/doc/945e6c5db17c9ab1323f582f76bb7b22]]
+
+
+#### hold out 实验参数改版
+- [ ] 新增/修改/复制 投放计划  修改复制兼容老实验参数格式转化为新格式
+- [ ] 画布 策略预览投放计划基础信息 实验计划改为抽屉层展示  
