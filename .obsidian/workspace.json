@@ -11,10 +11,14 @@
             "id": "e32d9adbe0f4ea1f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "人生食用指南/朝花夕拾.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "朝花夕拾"
             }
           }
         ]
@@ -159,9 +163,10 @@
   },
   "active": "e32d9adbe0f4ea1f",
   "lastOpenFiles": [
-    "人生食用指南/认知自己.md",
-    "人生食用指南/未命名.md",
+    "人生食用指南/前端劝退段子.md",
+    "人生食用指南/朝花夕拾.md",
     "人生食用指南/拒绝疗法.md",
+    "人生食用指南/认知自己.md",
     "小红书/测试账号.md",
     "小红书/催发货进度页面功能整理.md",
     "小红书/工作内容.md",
@@ -186,7 +191,6 @@
     "2024-08-05.md",
     "2024-07-16.md",
     "2024-07-17.md",
-    "2024-06-06.md",
     "小红书/image/Pasted image 20241114192206.png",
     "小红书/image/Pasted image 20241114192135.png",
     "小红书/image/Pasted image 20241114191909.png",
