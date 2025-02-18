@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人生食用指南/朝花夕拾.md",
+                "file": "小红书/埋点部署.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "朝花夕拾"
+              "title": "埋点部署"
+            }
+          },
+          {
+            "id": "ea42b581e0db04ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "小红书/用增业务/营销 交易用增.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "营销 交易用增"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -161,36 +177,37 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "e32d9adbe0f4ea1f",
+  "active": "243b1729d81553c9",
   "lastOpenFiles": [
-    "人生食用指南/前端劝退段子.md",
-    "人生食用指南/朝花夕拾.md",
-    "人生食用指南/拒绝疗法.md",
-    "人生食用指南/认知自己.md",
+    "小红书/用增业务",
+    "小红书/用增业务/交易用增业务介绍.md",
+    "小红书/用增业务/营销 交易用增.md",
+    "小红书/用增业务/用增业务.md",
+    "小红书/用增业务/浅谈交易C端业务.md",
+    "小红书/小红书业务整理.md",
     "小红书/测试账号.md",
-    "小红书/催发货进度页面功能整理.md",
-    "小红书/工作内容.md",
-    "小红书/埋点部署.md",
+    "小红书/SCheam发布.md",
+    "小红书/FE平台流程发布注意事项.md",
+    "小红书/fe平台发布流程.md",
+    "小红书/FE平台发布流程.canvas",
+    "小红书/csticket发布指南.md",
+    "小红书/ARK开发注意事项.md",
+    "小红书/用增业务/营销策略工作内容(鹰眼平台)营销活动平台LOKI.md",
+    "小红书/小红书app端开发.md",
+    "小红书/小红书千帆移动端.md",
     "小红书/千帆app端.md",
     "小红书/线上发布流程.md",
-    "小红书/营销策略工作内容(鹰眼平台)营销活动平台LOKI.md",
-    "小红书/ARK开发注意事项.md",
-    "小红书/FE平台发布流程.canvas",
-    "小红书/fe平台发布流程.md",
-    "小红书/FE平台流程发布注意事项.md",
+    "小红书/埋点部署.md",
     "小红书/RN开发规范.md",
     "小红书/UBA用户行为分析平台(埋点).canvas",
     "小红书/UNO配置平台.md",
-    "小红书/小红书app端开发.md",
-    "小红书/小红书千帆移动端.md",
-    "人生食用指南/奥乐齐.md",
-    "人生食用指南/2024 12 28安排.md",
-    "人生食用指南/NEED TO DO.md",
-    "小红书/SCheam发布.md",
-    "README.md",
-    "2024-08-05.md",
-    "2024-07-16.md",
-    "2024-07-17.md",
+    "小红书/image/Pasted image 20250207152515.png",
+    "人生食用指南/朝花夕拾.md",
+    "人生食用指南/前端劝退段子.md",
+    "人生食用指南/拒绝疗法.md",
+    "人生食用指南/认知自己.md",
+    "小红书/催发货进度页面功能整理.md",
+    "小红书/工作内容.md",
     "小红书/image/Pasted image 20241114192206.png",
     "小红书/image/Pasted image 20241114192135.png",
     "小红书/image/Pasted image 20241114191909.png",
@@ -202,7 +219,6 @@
     "小红书/image/Pasted image 20240727173720.png",
     "小红书/image/Pasted image 20240618104540.png",
     "小红书/image/Pasted image 20240612174818.png",
-    "小红书/image/企业微信截图_994a484d-d2bb-4937-a09d-dbdd2c13e07d.png",
     "未命名.canvas",
     "daily",
     "工具",
