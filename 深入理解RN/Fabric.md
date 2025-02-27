@@ -34,6 +34,35 @@ iPhone 12 Pro
 
 大家回想一下「通信机制」中的Java module方法在C++中被挂载到JS上下文中的逻辑，其实JSI就是把nativeFabricUIManager直接挂到了上下文中，这样就省去了之前提到了执行队列的等待耗时。
 
-```
-void UIManagerBinding::createAndInstallIfNeeded(    jsi::Runtime& runtime,    const std::shared_ptr<UIManager>& uiManager) {  auto uiManagerModuleName = "nativeFabricUIManager";   auto uiManagerValue =      runtime.global().getProperty(runtime, uiManagerModuleName);  if (uiManagerValue.isUndefined()) {    // The global namespace does not have an instance of the binding;    // we need to create, install and return it.    auto uiManagerBinding = std::make_shared<UIManagerBinding>(uiManager);    auto object = jsi::Object::createFromHostObject(runtime, uiManagerBinding);    runtime.global().setProperty(        runtime, uiManagerModuleName, std::move(object));  }}
+```java
+void UIManagerBinding::createAndInstallIfNeeded(
+
+jsi::Runtime& runtime,
+
+const std::shared_ptr<UIManager>& uiManager) {
+
+auto uiManagerModuleName = "nativeFabricUIManager";
+
+auto uiManagerValue =
+
+runtime.global().getProperty(runtime, uiManagerModuleName);
+
+if (uiManagerValue.isUndefined()) {
+
+// The global namespace does not have an instance of the binding;
+
+// we need to create, install and return it.
+
+auto uiManagerBinding = std::make_shared<UIManagerBinding>(uiManager);
+
+auto object = jsi::Object::createFromHostObject(runtime, uiManagerBinding);
+
+runtime.global().setProperty(
+
+runtime, uiManagerModuleName, std::move(object));
+
+}
+
+}
+
 ```
