@@ -11,10 +11,14 @@
             "id": "b482c561284f80ae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "工具/VSCODE SETTING.JSON.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "VSCODE SETTING.JSON"
             }
           }
         ]
@@ -160,6 +164,11 @@
   },
   "active": "b482c561284f80ae",
   "lastOpenFiles": [
+    "note/声明式与命令式.md",
+    "工具/VSCODE SETTING.JSON.md",
+    "小红书/春上新梳理.md",
+    "小红书/image/Pasted image 20250228140128.png",
+    "小红书/image/Pasted image 20250228140124.png",
     "深入理解RN/通信机制.md",
     "未命名.md",
     "深入理解RN/xhsRN.md",
@@ -171,7 +180,6 @@
     "深入理解RN/开篇.md",
     "小红书/埋点部署.md",
     "深入理解RN",
-    "小红书/春上新梳理.md",
     "人生食用指南/拒绝疗法.md",
     "人生食用指南/动效拆分.md",
     "人生食用指南/认知自己.md",
@@ -186,8 +194,6 @@
     "小红书/用增业务/用增业务.md",
     "小红书/用增业务/浅谈交易C端业务.md",
     "小红书/小红书业务整理.md",
-    "小红书/测试账号.md",
-    "小红书/SCheam发布.md",
     "小红书/FE平台发布流程.canvas",
     "小红书/UBA用户行为分析平台(埋点).canvas",
     "小红书/image/Pasted image 20250207152515.png",
@@ -200,8 +206,6 @@
     "小红书/image/Pasted image 20240727173824.png",
     "小红书/image/Pasted image 20240727173816.png",
     "小红书/image/Pasted image 20240727173720.png",
-    "小红书/image/Pasted image 20240618104540.png",
-    "小红书/image/Pasted image 20240612174818.png",
     "未命名.canvas",
     "daily",
     "工具",
