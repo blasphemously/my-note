@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "60677baad0398187",
+        "id": "0155c3d8766c13ae",
         "type": "tabs",
         "children": [
           {
-            "id": "ab1e4c7bab329823",
+            "id": "459c605a9d4c2572",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "区块链/WEB3面试.md",
+                "file": "人生食用指南/拒绝疗法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WEB3面试"
+              "title": "拒绝疗法"
             }
           }
         ]
@@ -162,38 +162,39 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "ab1e4c7bab329823",
+  "active": "459c605a9d4c2572",
   "lastOpenFiles": [
-    "小红书/春上新梳理.md",
-    "区块链/WEB3面试.md",
-    "区块链/区块链.md",
+    "人生食用指南/旦梦暮忆.md",
+    "人生食用指南/拒绝疗法.md",
+    "人生食用指南/前端劝退段子.md",
+    "人生食用指南/认知自己.md",
+    "人生食用指南/租房指南.md",
+    "人生食用指南/NEED TO DO.md",
+    "小红书/用增业务/浅谈交易C端业务.md",
+    "小红书/用增业务/交易用增业务介绍.md",
+    "小红书/用增业务/用增业务.md",
     "工具/VSCODE SETTING.JSON.md",
+    "工具/知识管理体系.md",
+    "工具/跨平台框架.md",
+    "工具/工作工具.md",
+    "未命名.md",
+    "README.md",
+    "小红书/image/Pasted image 20250327113255.png",
+    "小红书/邮箱设计.md",
+    "区块链/WEB3面试.md",
+    "小红书/春上新梳理.md",
+    "区块链/区块链.md",
     "note/声明式与命令式.md",
     "小红书/image/Pasted image 20250228140128.png",
     "小红书/image/Pasted image 20250228140124.png",
     "深入理解RN/通信机制.md",
-    "未命名.md",
     "深入理解RN/xhsRN.md",
     "深入理解RN/Fabric.md",
     "深入理解RN/自定义组件.md",
     "深入理解RN/线性模型.md",
     "深入理解RN/渲染原理.md",
-    "深入理解RN/启动流程.md",
-    "深入理解RN/开篇.md",
-    "小红书/埋点部署.md",
     "深入理解RN",
-    "人生食用指南/拒绝疗法.md",
-    "人生食用指南/动效拆分.md",
-    "人生食用指南/认知自己.md",
-    "人生食用指南/NEED TO DO.md",
-    "人生食用指南/前端劝退段子.md",
-    "人生食用指南/朝花夕拾.md",
-    "人生食用指南/奥乐齐.md",
-    "人生食用指南/2024 12 28安排.md",
-    "小红书/用增业务/营销 交易用增.md",
     "小红书/用增业务",
-    "小红书/用增业务/交易用增业务介绍.md",
-    "小红书/用增业务/用增业务.md",
     "小红书/FE平台发布流程.canvas",
     "小红书/UBA用户行为分析平台(埋点).canvas",
     "小红书/image/Pasted image 20250207152515.png",
@@ -205,7 +206,6 @@
     "小红书/image/Pasted image 20240727173828.png",
     "小红书/image/Pasted image 20240727173824.png",
     "小红书/image/Pasted image 20240727173816.png",
-    "小红书/image/Pasted image 20240727173720.png",
     "未命名.canvas",
     "daily",
     "工具",

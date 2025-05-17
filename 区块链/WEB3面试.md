@@ -11,7 +11,7 @@ https://abetterweb3.notion.site/daa095830b624e96af46de63fb9771b9
 ##### 必须掌握技术
 Solidity （面向合约的高级语言）  https://docs.soliditylang.org/en/latest/
 rust https://rustcc.cn/article?id=289da7be-19ce-49fe-af6d-3a7946404ca6
-node.js
+node.js 
 
 ##### 教程
 https://www.youtube.com/@OneBlockPlus
